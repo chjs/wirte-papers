@@ -1,0 +1,4 @@
+interface:
+  display_name: "wirte-papers"
+  short_description: "사실·수치·근거를 보존하는 시스템 논문 작성과 편집"
+  default_prompt: "Use $wirte-papers to revise this systems research paper draft while preserving evidence, quantities, and claim scope; explain important changes in Korean."
